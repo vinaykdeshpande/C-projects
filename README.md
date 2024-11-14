@@ -11,6 +11,24 @@ The calculator supports the following operations:
 4.  Division (with error handling for division by zero)
 5.  Factorial Calculation (for non-negative integers)
 Press 0 for exit
+Clone this repository or copy the source code.
+
+Compile the code using a C compiler:
+
+gcc calculator.c -o calculator
+
+./calculator
+
+The program will display a menu. Enter the corresponding number for the desired operation:
+
+Enter 1 for addition.
+Enter 2 for multiplication.
+Enter 3 for subtraction.
+Enter 4 for division.
+Enter 5 to find the factorial of a number.
+Enter 0 to exit the calculator.
+Follow the prompts to input the numbers and view the results.
+
 
 How it works..!!!
 Welcome to the Calculator!
